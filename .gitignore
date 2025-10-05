@@ -47,3 +47,7 @@ node_modules/
 vendor/
 bin/
 obj/
+
+# ... existing content ...
+*.pem  # SSH private keys
+*.ppk
